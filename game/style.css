@@ -1,0 +1,29 @@
+.main{
+    background-image: url("images/v745rRo.gif");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.character{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    position: absolute;
+
+    bottom: 10px;
+
+}
+
+.charactert{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    position: absolute;
+    bottom: 10px;
+    left: 81rem;
+    transform: scaleX(-1);
+}
